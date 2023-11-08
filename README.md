@@ -19,23 +19,23 @@
    <a href="https://www.mazjohn.com">
     <img src="https://img.shields.io/badge/www-mazjohn.com-blue?style=for-the-badge&logo=WebAuthn&logoColor=00AEFF&labelColor=black&color=F36633">
   </a>
-  <a href="mailto:mazjohn2023@gmail.com">
+  <!-- <a href="mailto:mazjohn2023@gmail.com">
     <img src="https://img.shields.io/badge/-mazjohn2023@gmail.com-blue?style=for-the-badge&logo=maildotru&logoColor=00AEFF&labelColor=black&color=EA4335">
-  </a>
+  </a> -->
 </p>
 
 > I am a hard worker who is focused and passionate about learning something new, especially in technology. I have worked as a computer teacher, as an IT expert at a ministry, as an IT consultant at a state-owned company (BUMN), as a web developer and software developer, and as an IT manager and IT security officer. I am also a freelance web developer and software developer. 
 
 <!-- - 📫 How to reach me: [mazjohn.com](https://mazjohn.com) -->
 <div style="display: flex;">
-  <div style="flex: 30%; padding: 5px;">
+  <div style="flex: 25%; padding: 5px;">
     <a href="https://github.com/djono">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djono&layout=compact&theme=chartreuse-dark&langs_count=10">
     </a>
 
   </div>
-  <div style="flex: 70%; padding: 5px;">
-    <a href="https://mazjohn.com" target="_blank">
+  <div style="flex: 75%; padding: 5px;">
+    <a href="https://mazjohn.com" target="_blank" style="background-color: transparent;" onmouseover="this.style.backgroundColor='#f2f2f2';" onmouseout="this.style.backgroundColor='transparent';">
     <pre style="background-color:black">
   __  __            _       _
  |  \/  | __ _ ____(_) ___ | |__  _ __    ___ ___  _ __ ___
