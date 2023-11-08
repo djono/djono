@@ -10,14 +10,17 @@
 > I am a hard worker who is focused and passionate about learning something new, especially in technology. I have worked as a computer teacher, as an IT expert at a ministry, as an IT consultant at a state-owned company (BUMN), as a web developer and software developer, and as an IT manager and IT security officer. I am also a freelance web developer and software developer. 
 
 <!-- - 📫 How to reach me: [mazjohn.com](https://mazjohn.com) -->
-<div style="display: flex;">
-  <div style="flex: 30%; padding: 5px;" align="center">
+
+  <div style="flex: 100%; padding: 5px;" align="center">
     <a href="https://github.com/djono">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djono&layout=compact&theme=chartreuse-dark&langs_count=10">
     </a>
-  </div>
-  <div style="flex: 70%;">
-    <pre style="background-color:black !important;">
+   <a href="https://github.com/djono">
+    <img src="https://github-readme-stats.vercel.app/api?username=djono&count_private=true&show_icons=true&theme=chartreuse-dark" width="520">
+    </a>
+ </div>
+  <div style="flex: 100%;background-color:black !important;">
+    <pre>
                      __  __            _       _
                     |  \/  | __ _ ____(_) ___ | |__  _ __    ___ ___  _ __ ___
                     | |\/| |/ _` |_  /| |/ _ \| '_ \| '_ \  / __/ _ \| '_ ` _ \
@@ -26,7 +29,6 @@
                                     |__/
     </pre>
   </div>
-</div>
 
 <p align="center">
   <a href="https://facebook.com/mazjohn20">
